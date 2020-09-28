@@ -1,4 +1,4 @@
 # Temperature-Conversion
 
-Android Studio
+Android Studio.
 This app allows users to convert Temperature to Fahrenheit or Celsius. 
